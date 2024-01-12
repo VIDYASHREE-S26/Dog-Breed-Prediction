@@ -1,1 +1,7 @@
 # Dog-Breed-Prediction
+
+Requirments: 
+Keras==2.4.3
+opencv_python==4.4.0.46
+numpy==1.18.5
+streamlit==0.71.0
